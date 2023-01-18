@@ -1,0 +1,29 @@
+h1 {
+  color: #326dee;
+  margin-bottom: 0.75rem;
+}
+
+a {
+  color: #1ac888;
+}
+
+button {
+  color: white;
+  border: 0;
+  background: #326dee;
+  border-radius: 20px;
+  border-width: 1px;
+}
+
+.error {
+  color: #d35b79;
+  border-color: #d35b79;
+  border-style: solid;
+  border-radius: 20px;
+  border-width: 1px;
+}
+
+.notification {
+  color: #1ac888;
+  border-color: #1ac888;
+}
